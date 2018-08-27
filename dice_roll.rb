@@ -5,4 +5,4 @@
 def roll
   puts rand(1..6)
 end
-roll(1..6)
+roll
