@@ -5,4 +5,5 @@
 def roll
   prng.rand(1..6)
 end
- prng=
+ prng= random.new
+ roll
